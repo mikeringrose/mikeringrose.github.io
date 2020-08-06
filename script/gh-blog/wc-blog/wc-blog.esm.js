@@ -1,0 +1,1 @@
+import{p as s,b as p}from"./p-0539f711.js";import"./p-b2d35026.js";s().then(s=>p([["p-12e23b50",[[1,"gh-blog",{name:[1]}],[1,"gh-post",{gistId:[1,"gist-id"],gist:[32]}]]],["p-b2034ce0",[[1,"my-component",{first:[1],middle:[1],last:[1]}]]]],s));

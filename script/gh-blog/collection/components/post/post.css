@@ -1,0 +1,46 @@
+a {
+  color: #0366d6;
+}
+
+header h2 {
+  font-size: 1.5rem;
+  margin: 4px 0;
+  color: #232b2b;
+}
+
+header p {
+  margin: 0;
+  font-size: .85rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6 {
+  color: #3e3f3f;
+}
+
+.content h1 {
+  font-size: 1.35rem;
+}
+
+.content h2 {
+  font-size: 1.25rem;
+}
+
+.content h3 {
+  font-size: 1.15rem;
+}
+
+.content .highlight pre {
+  font-size: 1.15rem;
+  padding: 8px;
+  border-radius: 6px;
+  background-color: #f6f8fa;
+}

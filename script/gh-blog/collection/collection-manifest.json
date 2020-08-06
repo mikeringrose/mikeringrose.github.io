@@ -1,0 +1,15 @@
+{
+  "entries": [
+    "./components/blog/blog.js",
+    "./components/my-component/my-component.js",
+    "./components/post/post.js"
+  ],
+  "compiler": {
+    "name": "@stencil/core",
+    "version": "1.12.2",
+    "typescriptVersion": "3.8.3"
+  },
+  "collections": [],
+  "bundles": [],
+  "global": "global.js"
+}
